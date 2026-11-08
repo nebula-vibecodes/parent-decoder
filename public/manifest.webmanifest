@@ -1,0 +1,13 @@
+{
+  "name": "Parent Decoder",
+  "short_name": "Decoder",
+  "description": "Modern slang, emojis, and online phrases — explained with context, nuance, and a way to start the conversation.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#2f5d46",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
