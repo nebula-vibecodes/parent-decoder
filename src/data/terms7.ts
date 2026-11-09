@@ -422,7 +422,7 @@ export const terms7: Term[] = [
       "Playfully refusing to answer a question.",
       "Referencing the jawline “mewing” meme."
     ],
-    "example": "“did u do the homework?” "🤫🧏"",
+    "example": "“did u do the homework?” “🤫🧏”",
     "contextClues": "Playful meme. Only worth noticing if paired with appearance anxiety.",
     "opener": "“Is that the mewing thing? Show me how it goes.”",
     "category": "Emojis & Symbols",
