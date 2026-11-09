@@ -603,7 +603,7 @@ export const terms2: Term[] = [
       "A content warning before food or body-related posts.",
       "Tags like “edtwt” for eating-disorder Twitter, which includes both support and harmful content."
     ],
-    "example": "“ed got moved to second period” / "The video started with an ‘ed tw’ so people could skip it.”",
+    "example": "“ed got moved to second period” / “The video started with an ‘ed tw’ so people could skip it.”",
     "contextClues": "School, schedule, or name context is exactly what it looks like. The clinical meaning usually travels with warning wording (“tw,” “cw”) or community tags. Even then, the abbreviation alone says nothing about your child. If you notice it alongside changed eating habits or body talk, a gentle, non-accusatory conversation (and a pediatrician or therapist) helps far more than food policing.",
     "opener": "“How do people your age use that term—is it mostly warnings, or something else?”",
     "category": "Sensitive Safety Topics",
